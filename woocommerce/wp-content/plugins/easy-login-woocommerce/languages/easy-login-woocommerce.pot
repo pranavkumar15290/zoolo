@@ -1,0 +1,208 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-30 17:19+0530\n"
+"PO-Revision-Date: 2018-04-03 13:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/class-xoo-el-menu-settings.php:15
+msgid "Login/Signup Popup"
+msgstr ""
+
+#: admin/xoo-el-admin-settings.php:45
+msgid "General"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:29
+#: includes/class-xoo-el-form-handler.php:33
+msgid "Error:"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:33
+msgid "Username is required."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:55
+msgid "The password you entered is incorrect."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:59
+msgid "Invalid username."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:64
+msgid "Invalid email."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:87
+msgid "Login successfull"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:130
+msgid "Passwords don't match"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:134
+msgid "First/Last name cannot be empty"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:138
+msgid "Please accept terms and conditions"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:173
+msgid "Registration successfull"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:88
+msgid "Please fill both the fields"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:92
+msgid "Enter valid email address"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:93
+msgid "Password must be minimum 6 characters."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:94
+msgid "Passwords don't match."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:95
+msgid "First name must be minimum 3 characters."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:96
+msgid "Last name must be minimum 3 characters."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:97
+msgid "Please accept the terms & conditions."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:124 includes/xoo-el-functions.php:31
+msgid "My account"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:130 includes/xoo-el-functions.php:27
+msgid "Logout"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:141
+#: includes/class-xoo-el-frontend.php:156
+msgid "Login"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:146
+msgid "Signup"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:151
+msgid "Lost Password"
+msgstr ""
+
+#: templates/xoo-el-login-section.php:14 templates/xoo-el-login-section.php:46
+#: templates/xoo-el-lostpw-section.php:17
+msgid "Sign In"
+msgstr ""
+
+#: templates/xoo-el-login-section.php:16
+msgid "Not registered? Sign up"
+msgstr ""
+
+#: templates/xoo-el-login-section.php:28 templates/xoo-el-lostpw-section.php:31
+msgid "Username / Email"
+msgstr ""
+
+#: templates/xoo-el-login-section.php:33 templates/xoo-el-signup-section.php:54
+msgid "Password"
+msgstr ""
+
+#: templates/xoo-el-login-section.php:39
+msgid "Remember me"
+msgstr ""
+
+#: templates/xoo-el-login-section.php:41
+msgid "Forgot Password?"
+msgstr ""
+
+#: templates/xoo-el-lostpw-section.php:12
+msgid "FORGOT PASSWORD ?"
+msgstr ""
+
+#: templates/xoo-el-lostpw-section.php:15
+msgid "Sign up"
+msgstr ""
+
+#: templates/xoo-el-lostpw-section.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: templates/xoo-el-lostpw-section.php:36
+msgid "Email Reset Link"
+msgstr ""
+
+#: templates/xoo-el-popup.php:46
+msgid "We do not share your personal details with anyone."
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:14
+#: templates/xoo-el-signup-section.php:79
+msgid "Sign Up"
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:15
+msgid "Already Registered? Sign In"
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:29
+msgid "Username"
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:35
+msgid "Email"
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:42
+msgid "First Name"
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:47
+msgid "Last Name"
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:59
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/xoo-el-signup-section.php:68
+#, php-format
+msgid ""
+"I accept the <a target=\"_blank\" href=\"%s\">Terms of Service and Privacy "
+"Policy</a>"
+msgstr ""
+
+#: xoo-el-main.php:56
+msgid ""
+"WooCommerce Login/Signup Popup is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
